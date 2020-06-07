@@ -1,5 +1,5 @@
 # Stock-Sentiment-analysis-using-News-Headlines-
-The Stock sentiment analysis is used to predict weather the Next day's news would increase the stock price of a company or not by using the News headlines.
+Using News Paper Headlines to predict weather the Next day's news would increase the stock price of a news channel or not.
 
 Class 1-- The stock price incresed.
 
